@@ -1,0 +1,5 @@
+<Elements>
+  <Element Position="532 96" Type="lamp" Flips="0" />
+  <Element Position="696 111" Type="ampermeter" Flips="0" />
+  <Line FirstPoint="696 271" SecondPoint="259 165" />
+</Elements>

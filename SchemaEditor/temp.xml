@@ -1,0 +1,23 @@
+<Elements>
+  <Element Position="278 62" Type="ampermeter" Flips="0" />
+  <Element Position="390 63" Type="lamp" Flips="0" />
+  <Element Position="517 109" Type="resistor" Flips="1" />
+  <Element Position="515 248" Type="resistor" Flips="1" />
+  <Element Position="397 335" Type="key" Flips="0" />
+  <Element Position="241 344" Type="galvanic_element" Flips="0" />
+  <Element Position="390 193" Type="resistor" Flips="0" />
+  <Element Position="242 188" Type="voltmeter" Flips="0" />
+  <Line FirstPoint="161 77" SecondPoint="275 78" />
+  <Line FirstPoint="309 78" SecondPoint="388 78" />
+  <Line FirstPoint="422 76" SecondPoint="528 76" />
+  <Line FirstPoint="528 76" SecondPoint="529 106" />
+  <Line FirstPoint="527 161" SecondPoint="527 246" />
+  <Line FirstPoint="526 299" SecondPoint="527 358" />
+  <Line FirstPoint="457 358" SecondPoint="526 357" />
+  <Line FirstPoint="399 358" SecondPoint="302 359" />
+  <Line FirstPoint="240 359" SecondPoint="162 359" />
+  <Line FirstPoint="161 76" SecondPoint="161 360" />
+  <Line FirstPoint="527 203" SecondPoint="443 203" />
+  <Line FirstPoint="387 204" SecondPoint="274 205" />
+  <Line FirstPoint="161 204" SecondPoint="240 205" />
+</Elements>
